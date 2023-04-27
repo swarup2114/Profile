@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.cardContent {
+  width: "270px";
+  height: "40px";
+  background-color: "red";
+}
+.cardItems {
+  margin: 30px;
+  width: 100px;
+  height: 200px;
+}
+.cardList {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(23, 114, 193);
+}

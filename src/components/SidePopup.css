@@ -1,0 +1,7 @@
+.CardAction {
+  left: 10px;
+}
+.CardItems TextField {
+  position: relative;
+  padding: 3px;
+}
